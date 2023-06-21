@@ -7,12 +7,12 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "elasticsearch": "^15.2.0",
-    "express": "^4.17.3",
-    "express-graphql": "^0.7.1",
-    "graphql": "^14.0.2",
-    "graphql-compose": "^5.3.4",
-    "graphql-compose-elasticsearch": "^2.2.1"
+    "elasticsearch": "^16.0.0",
+    "express": "^4.17.1",
+    "express-graphql": "0.12.0",
+    "graphql": "15.6.1",
+    "graphql-compose": "9.0.3",
+    "graphql-compose-elasticsearch": "^5.0.0"
   },
   "scripts": {
     "start": "node index.js"
